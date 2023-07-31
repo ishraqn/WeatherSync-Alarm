@@ -18,7 +18,7 @@ Follow the steps below to set up the Advanced Alarm Clock System:
 1. **Clone the Repository**
 
    ```
-   git clone https://github.com/TacoWound/FinalProject444.git
+   git clone https://github.com/TacoWound/comp444_finalproject.git
    ```
 
 2. **Setup Python Environment**
@@ -82,4 +82,4 @@ Contributions are greatly appreciated and help make the open-source community an
 Please open a new issue if you encounter problems while setting up or using the system.
 
 
-Project Link: <https://github.com/TacoWound/FinalProject444>
+Project Link: <https://github.com/TacoWound/comp444_finalproject>
