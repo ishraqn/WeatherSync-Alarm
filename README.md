@@ -79,10 +79,7 @@ Contributions are greatly appreciated and help make the open-source community an
 
 ## Troubleshooting
 
-Refer to the FAQ or open a new issue if you encounter problems while setting up or using the system.
+Please open a new issue if you encounter problems while setting up or using the system.
 
-## License
-
-Distributed under the MIT License. See **LICENSE** for more information.
 
 Project Link: <https://github.com/TacoWound/FinalProject444>
