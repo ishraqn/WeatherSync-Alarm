@@ -1,0 +1,2 @@
+pyserial==3.5
+python_weather==1.0.3
