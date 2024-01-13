@@ -82,4 +82,4 @@ Contributions are greatly appreciated and help make the open-source community an
 Please open a new issue if you encounter problems while setting up or using the system.
 
 
-Project Link: <https://github.com/TacoWound/comp444_finalproject>
+Project Link: <https://github.com/ishraqn/comp444_finalproject>
