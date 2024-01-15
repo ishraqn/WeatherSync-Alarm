@@ -1,4 +1,4 @@
-# Weatther Sync Alarm Clock System
+# WeatherSync Alarm Clock System
 
 The Advanced Alarm Clock System is an alarm clock project that combines the power of an Arduino board and Python to create a final project for COMP 444 using the stock Sparkfun Inventors Kit. This system leverages Python for core operations, integrating multiple libraries to handle serial communication, asynchronous programming, and real-time weather data fetching.
 
